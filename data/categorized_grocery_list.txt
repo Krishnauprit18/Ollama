@@ -1,0 +1,37 @@
+After categorizing and sorting the grocery items, I present to you the following list:
+
+1. **Bakery**
+	• Whole wheat bread
+2. **Beverages**
+	• Coffee (beans or grounds)
+3. **Dairy**
+	• Cheese (e.g., cheddar, mozzarella)
+	• Eggs
+	• Greek yogurt
+	• Milk (dairy or non-dairy alternative)
+4. **Meat**
+	1. Bacon
+	2. Chicken breast
+	3. Ground beef
+	4. Salmon fillet
+5. **Produce**
+	• Apples
+	• Bananas
+	• Berries (e.g., strawberries, blueberries)
+	• Carrots
+	• Cucumbers
+	• Grapes
+	• Oranges
+	• Onions
+	• Potatoes
+	• Romaine lettuce
+	• Spinach
+	• Tomatoes
+6. **Pantry**
+	1. Olive oil
+	2. Peanut butter
+	3. Rice (brown or white)
+	4. Pasta (e.g., spaghetti, penne)
+7. **Condiments**
+	• Butter
+	• Jam or jelly
